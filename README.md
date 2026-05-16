@@ -1,5 +1,4 @@
-# 2026_Operating_systems
-Laboratory_work
+#              2026_Operating_systems
 <img width="491" height="383" alt="1" src="https://github.com/user-attachments/assets/993cab9f-fce7-42c5-ae32-ef7c95cb7933" />
 <img width="852" height="392" alt="2" src="https://github.com/user-attachments/assets/dfaf9d5f-e165-4142-ab0f-8e576052a782" />
 <img width="855" height="481" alt="3 1" src="https://github.com/user-attachments/assets/353a5d3a-427b-4dde-b6ea-3e104285b1c0" />
