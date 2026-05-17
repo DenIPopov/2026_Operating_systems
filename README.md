@@ -5,7 +5,7 @@
 Сделал лабу скриншотами, потому что только в конце увидел, что нужно записать видео))))))))))))))
 
 1) Устанавливаем Oracle VirtualBox на ПК
-<img width="491" height="383" alt="1" src="https://github.com/user-attachments/assets/993cab9f-fce7-42c5-ae32-ef7c95cb7933" />
+<img width="491" height="383" alt="1" src="https://github.com/user-attachments/assets/993cab9f-fce7-42c5-ae32-ef7c95cb7933" /> 
 
 2) Выбираем дистрибутив Debian, подбираем нужные параметры
 <img width="852" height="392" alt="2" src="https://github.com/user-attachments/assets/dfaf9d5f-e165-4142-ab0f-8e576052a782" />
