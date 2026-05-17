@@ -1,10 +1,9 @@
-#              2026_Operating_systems
-##                       Лабораторная работа_2 
+# 2026_Operating_systems
+## Лабораторная работа_2 
 ## Установка Linux (развёртка, bootstraping)
-
-
-
+1) Устаналвниваем Oracle Virtual Box на ПК
 <img width="491" height="383" alt="1" src="https://github.com/user-attachments/assets/993cab9f-fce7-42c5-ae32-ef7c95cb7933" />
+
 <img width="852" height="392" alt="2" src="https://github.com/user-attachments/assets/dfaf9d5f-e165-4142-ab0f-8e576052a782" />
 <img width="855" height="481" alt="3 1" src="https://github.com/user-attachments/assets/353a5d3a-427b-4dde-b6ea-3e104285b1c0" />
 <img width="896" height="529" alt="4" src="https://github.com/user-attachments/assets/56bbbbb7-7f3f-48cc-9182-002a6654d3a3" />
