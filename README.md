@@ -48,15 +48,15 @@
 
 ### Напишем программу, вычисляющую факториал заданного числа на C++
 <img width="560" height="326" alt="image" src="https://github.com/user-attachments/assets/5b0254ac-c894-452c-920b-83de9443c1b0" />
-Вывод программы. Программа вычисляет факториал в диапазоне от 0 до 20.
+###Вывод программы. Программа вычисляет факториал в диапазоне от 0 до 20.
 <img width="1184" height="158" alt="image" src="https://github.com/user-attachments/assets/2270b741-34d3-440e-8b8d-56c26e09855c" />
 
 ### Ассемблерный код
-#### Без оптимизации -O0. Часть кода с комментариями.
+### Без оптимизации -O0. Часть кода с комментариями.
 <img width="633" height="799" alt="image" src="https://github.com/user-attachments/assets/2e19639f-d979-4485-8eb3-021576401ef3" />
-#### С оптимизацией -O1. Полный код.
+### С оптимизацией -O1. Полный код.
 <img width="524" height="915" alt="image" src="https://github.com/user-attachments/assets/2d7b5d47-b623-4c22-bb06-e869e6bc6420" />
 <img width="773" height="856" alt="image" src="https://github.com/user-attachments/assets/5b59e762-96f9-4da6-a6fc-3ae48f8c52fc" />
 <img width="1017" height="836" alt="image" src="https://github.com/user-attachments/assets/828aad1a-4e04-443e-892b-586f65ff5175" />
-#### С оптимизацией -O3 Часть кода.
+### С оптимизацией -O3 Часть кода.
 <img width="504" height="762" alt="image" src="https://github.com/user-attachments/assets/002abfda-f3b6-444d-a3bc-7e33b8fc705a" />
