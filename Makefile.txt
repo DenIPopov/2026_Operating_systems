@@ -1,0 +1,22 @@
+CXX = g++
+CXXFLAGS = -Wall -std=c++11
+
+all: paral.exe
+
+paral.exe: paral.o factorial.o
+	$(CXX) paral.o factorial.o -o paral.exe
+
+paral.o: paral.cpp factorial.h
+	$(CXX) $(CXXFLAGS) -c paral.cpp
+
+factorial.o: factorial.cpp factorial.h
+	$(CXX) $(CXXFLAGS) -c factorial.cpp
+
+asm:
+	$(CXX) factorial.cpp -O0 -S -o factorial_O0.s
+	$(CXX) factorial.cpp -O1 -S -o factorial_O1.s
+	$(CXX) factorial.cpp -O2 -S -o factorial_O2.s
+	$(CXX) factorial.cpp -O3 -S -o factorial_O3.s
+
+clean:
+	del *.o *.exe
