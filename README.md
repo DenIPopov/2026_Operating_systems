@@ -65,5 +65,6 @@
 <img width="760" height="812" alt="image" src="https://github.com/user-attachments/assets/c3591d84-e0d2-4d6b-81f6-192012a39a3e" />
 
 4) С оптимизацией -O3 Часть кода.
-<img width="628" height="894" alt="image" src="https://github.com/user-attachments/assets/cb96eac3-e832-4fe7-b045-74bb9c56136c" />
+<img width="755" height="839" alt="image" src="https://github.com/user-attachments/assets/0980d134-0c2a-4054-99b3-540375e22b3c" />
+
 
