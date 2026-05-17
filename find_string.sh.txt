@@ -1,0 +1,21 @@
+#!/bin/bash
+
+if [ -z "$1" ]; then
+    echo "Mistake: specify the search string"
+    echo "Example: ./find_string.sh hello"
+    exit 1
+fi
+
+SEARCH_STR="$1"
+OUTPUT_FILE="found_files.txt"
+
+> "$OUTPUT_FILE"
+
+find . -type f -name "*.txt" | while read -r file; do
+    if grep -q "$SEARCH_STR" "$file"; then
+        echo "$file" >> "$OUTPUT_FILE"
+    fi
+done
+
+echo "Search complete. Found files saved to $OUTPUT_FILE"
+cat "$OUTPUT_FILE"
