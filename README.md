@@ -48,18 +48,22 @@
 
 ## Напишем программу, вычисляющую факториал заданного числа на C++
 <img width="560" height="326" alt="image" src="https://github.com/user-attachments/assets/5b0254ac-c894-452c-920b-83de9443c1b0" />
-##Вывод программы. Программа вычисляет факториал в диапазоне от 0 до 20.
+
+## Вывод программы. Программа вычисляет факториал в диапазоне от 0 до 20.
 <img width="1184" height="158" alt="image" src="https://github.com/user-attachments/assets/2270b741-34d3-440e-8b8d-56c26e09855c" />
 
 ## Ассемблерный код
 1) cmd строка. Из C++ в assembler
-<img width="740" height="627" alt="image" src="https://github.com/user-attachments/assets/011ca8b6-1a8e-408a-a639-36e96eddcf39" />
+<img width="726" height="614" alt="image" src="https://github.com/user-attachments/assets/f207bec2-724d-4d09-8674-25f3c6c2c24d" />
+
 2) Без оптимизации -O0. Часть кода с комментариями.
 <img width="763" height="916" alt="image" src="https://github.com/user-attachments/assets/dbfad744-21e3-46bd-811f-2af2f6eef317" />
+
 3) С оптимизацией -O1. Полный код.
 <img width="760" height="918" alt="image" src="https://github.com/user-attachments/assets/e2dfeed8-91b5-444c-a2c8-d48792883568" />
 <img width="761" height="850" alt="image" src="https://github.com/user-attachments/assets/aa0151ad-924e-4e91-949e-ae7eda5dda77" />
 <img width="760" height="812" alt="image" src="https://github.com/user-attachments/assets/c3591d84-e0d2-4d6b-81f6-192012a39a3e" />
+
 4) С оптимизацией -O3 Часть кода.
 <img width="628" height="894" alt="image" src="https://github.com/user-attachments/assets/cb96eac3-e832-4fe7-b045-74bb9c56136c" />
 
