@@ -1,13 +1,21 @@
 # 2026_Operating_systems
 ## Лабораторная работа_2 
 ## Установка Linux (развёртка, bootstraping)
-1) Устаналвниваем Oracle Virtual Box на ПК
+
+Сделал лабу скриншотами, потому что только в конце увидел, что нужно записать видео))))))))))))))
+
+1) Устаналвниваем Oracle VirtualBox на ПК
 <img width="491" height="383" alt="1" src="https://github.com/user-attachments/assets/993cab9f-fce7-42c5-ae32-ef7c95cb7933" />
 
+2) Выбираем дистрибутив Debianподбираем нужные параметры
 <img width="852" height="392" alt="2" src="https://github.com/user-attachments/assets/dfaf9d5f-e165-4142-ab0f-8e576052a782" />
 <img width="855" height="481" alt="3 1" src="https://github.com/user-attachments/assets/353a5d3a-427b-4dde-b6ea-3e104285b1c0" />
+ 
+3) Скачиваем ISO образ на ПК
 <img width="896" height="529" alt="4" src="https://github.com/user-attachments/assets/56bbbbb7-7f3f-48cc-9182-002a6654d3a3" />
 <img width="895" height="528" alt="5" src="https://github.com/user-attachments/assets/1b02da8b-f496-472f-9c34-9e73dd6792db" />
+
+4) Процесс устновки Linux
 <img width="639" height="563" alt="6" src="https://github.com/user-attachments/assets/8b811b19-8a02-4131-a2aa-039c7e6911ac" />
 <img width="1278" height="878" alt="7" src="https://github.com/user-attachments/assets/8bd46851-e2eb-4722-ad7a-86e458020786" />
 <img width="533" height="801" alt="8" src="https://github.com/user-attachments/assets/76894fd7-f2bd-4c39-be54-d373d5eaa82c" />
@@ -21,9 +29,13 @@
 <img width="473" height="47" alt="16" src="https://github.com/user-attachments/assets/efc10f78-02b1-4545-b402-679cf8eeddd9" />
 <img width="1016" height="447" alt="17" src="https://github.com/user-attachments/assets/1fae756c-0bc8-405a-8785-d2fe0721d07c" />
 <img width="1319" height="525" alt="18" src="https://github.com/user-attachments/assets/f55b939d-48b4-4d10-bf56-4ef7216cc796" />
+
+5) Проверка пинга (google.com)
 <img width="466" height="290" alt="19" src="https://github.com/user-attachments/assets/63f7fd91-cb11-4348-a723-e6045da7599d" />
 <img width="755" height="212" alt="20" src="https://github.com/user-attachments/assets/ae16fc7f-9814-4c7e-a476-bae9d80325a1" />
 <img width="958" height="824" alt="21" src="https://github.com/user-attachments/assets/c7d28b92-382d-4e48-8272-8efe71e58f94" />
+
+6) Делаем переброс портов
 <img width="903" height="518" alt="22" src="https://github.com/user-attachments/assets/76117993-d8ef-4940-95f4-108ec7a50b96" />
 <img width="638" height="384" alt="23" src="https://github.com/user-attachments/assets/d8c4331e-06a3-455a-9395-99348e625263" />
 <img width="854" height="587" alt="24" src="https://github.com/user-attachments/assets/4ece725f-72cb-4694-bba6-615a45b3f871" />
