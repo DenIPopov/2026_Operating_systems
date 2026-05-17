@@ -43,7 +43,7 @@
 <img width="739" height="490" alt="26" src="https://github.com/user-attachments/assets/2493a02d-2f31-49c8-9acc-c8880134d6e3" />
 
 ## Лабораторная работа_1
-## Вариант с вычислением факториала на языке C++
+## Вариант: с вычислением факториала на языке C++
 ### Файл с написаной функции выполнен в VS Code (жалею об этом)
 
 ### Напишем программу, вычисляющую факториал заданного числа на C++
@@ -51,12 +51,13 @@
 ###Вывод программы. Программа вычисляет факториал в диапазоне от 0 до 20.
 <img width="1184" height="158" alt="image" src="https://github.com/user-attachments/assets/2270b741-34d3-440e-8b8d-56c26e09855c" />
 
-### Ассемблерный код
-### Без оптимизации -O0. Часть кода с комментариями.
+## Ассемблерный код
+## Без оптимизации -O0. Часть кода с комментариями.
 <img width="633" height="799" alt="image" src="https://github.com/user-attachments/assets/2e19639f-d979-4485-8eb3-021576401ef3" />
-### С оптимизацией -O1. Полный код.
+
+## С оптимизацией -O1. Полный код.
 <img width="524" height="915" alt="image" src="https://github.com/user-attachments/assets/2d7b5d47-b623-4c22-bb06-e869e6bc6420" />
 <img width="773" height="856" alt="image" src="https://github.com/user-attachments/assets/5b59e762-96f9-4da6-a6fc-3ae48f8c52fc" />
 <img width="1017" height="836" alt="image" src="https://github.com/user-attachments/assets/828aad1a-4e04-443e-892b-586f65ff5175" />
-### С оптимизацией -O3 Часть кода.
+## С оптимизацией -O3 Часть кода.
 <img width="504" height="762" alt="image" src="https://github.com/user-attachments/assets/002abfda-f3b6-444d-a3bc-7e33b8fc705a" />
