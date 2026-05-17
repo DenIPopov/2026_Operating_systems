@@ -4,10 +4,10 @@
 
 Сделал лабу скриншотами, потому что только в конце увидел, что нужно записать видео))))))))))))))
 
-1) Устаналвниваем Oracle VirtualBox на ПК
+1) Устанавлииваем Oracle VirtualBox на ПК
 <img width="491" height="383" alt="1" src="https://github.com/user-attachments/assets/993cab9f-fce7-42c5-ae32-ef7c95cb7933" />
 
-2) Выбираем дистрибутив Debianподбираем нужные параметры
+2) Выбираем дистрибутив Debian, подбираем нужные параметры
 <img width="852" height="392" alt="2" src="https://github.com/user-attachments/assets/dfaf9d5f-e165-4142-ab0f-8e576052a782" />
 <img width="855" height="481" alt="3 1" src="https://github.com/user-attachments/assets/353a5d3a-427b-4dde-b6ea-3e104285b1c0" />
  
@@ -30,7 +30,7 @@
 <img width="1016" height="447" alt="17" src="https://github.com/user-attachments/assets/1fae756c-0bc8-405a-8785-d2fe0721d07c" />
 <img width="1319" height="525" alt="18" src="https://github.com/user-attachments/assets/f55b939d-48b4-4d10-bf56-4ef7216cc796" />
 
-5) Проверка пинга (google.com)
+5) Проверка ping (google.com)
 <img width="466" height="290" alt="19" src="https://github.com/user-attachments/assets/63f7fd91-cb11-4348-a723-e6045da7599d" />
 <img width="755" height="212" alt="20" src="https://github.com/user-attachments/assets/ae16fc7f-9814-4c7e-a476-bae9d80325a1" />
 <img width="958" height="824" alt="21" src="https://github.com/user-attachments/assets/c7d28b92-382d-4e48-8272-8efe71e58f94" />
