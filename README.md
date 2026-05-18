@@ -113,5 +113,10 @@
 4) Результат работы сохраняется в файл и выводится на экран (bash)
 
 # Лабораторная работа_3b
-## Реализация скрипта на Windows PowerShell
+## Реализация скрипта в Windows PowerShell
 ## Тема: Поиск строки в текстовых файлах и сохранение списка найденных файлов (аналог bash-скрипта).
+
+
+Код в PowerShell
+<img width="957" height="552" alt="image" src="https://github.com/user-attachments/assets/cc37c307-46d8-4292-8d1e-4481b88f0f8d" />
+
